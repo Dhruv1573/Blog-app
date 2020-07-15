@@ -83,7 +83,8 @@ button
   color: #868686;
   background-color: #fff;
   outline: none;
-  border: 1px solid black;
+  border: 0px;
+  cursor: pointer;
 
 }
 @media (max-width:768px)
