@@ -26,13 +26,13 @@ function App() {
      imgsrc={Sdata[1].imgscr}
     title={Sdata[1].title}
     sname={Sdata[1].sname}
-    link={Sdata[1].link}
+    link={Sdata[1].links}
     />
      <Card
      imgsrc={Sdata[2].imgscr}
     title={Sdata[2].title}
     sname={Sdata[2].sname}
-    link={Sdata[2].link}
+    link={Sdata[2].links}
     />
     </>
   );
