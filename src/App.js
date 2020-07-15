@@ -11,7 +11,7 @@ function App() {
     <>
     <h1 className="heading_style">Welcome to My Blog</h1>
         <ul>
-          <li><a class="active" href="./index.js">Home</a></li>
+          <li><a class="active" href="index.js">Home</a></li>
           <li><a href="#programming">Programming</a></li>
           <li><a href="#anime">Anime</a></li>
           
